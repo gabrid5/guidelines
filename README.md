@@ -35,3 +35,11 @@ Guidelines são diretrizes ou normas que orientam a criação e a manutenção d
 ## Conclusão
 
 A implementação e a adesão a guidelines são fundamentais para organizações que buscam aprimorar a qualidade e a eficiência de suas operações. Estas diretrizes contribuem para a obtenção de resultados coesos e facilitam a integração de novos membros, assegurando a manutenção de altos padrões em todas as áreas de atuação.
+
+
+#
+
+<div align="center">
+    Hey, you made it to the bottom!
+    Take a cookie 🍪
+</div>
